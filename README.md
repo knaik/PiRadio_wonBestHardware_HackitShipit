@@ -1,5 +1,5 @@
 # PiRadio
-Backup of Demo
+Backup of Demo [https://devpost.com/software/pirateradio]
 
 ## Inspiration
 My Inspiration was to embrace both the hack and nautical (pirate) theme of this hackathon. I am going for the hardware nautical theme. I wanted it to be completely portable so if I were on a ship, I would be able to use it without the need for any internet.
