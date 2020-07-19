@@ -32,3 +32,5 @@ Currently HD Radio has been pushed for digital radio broadcasts, however the for
 
 Something else that has interested me is going all in on ICECast and running an internet radio station. 
 
+
+https://www.youtube.com/watch?v=3Crvzqhb91w
